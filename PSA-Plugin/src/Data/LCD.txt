@@ -1,0 +1,3 @@
+title-devicePolicyManager.lockNow()-wakeLock.acquire()
+off-null-on
+on-off-null
